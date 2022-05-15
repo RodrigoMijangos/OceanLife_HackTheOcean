@@ -14,16 +14,24 @@ Pero no solo las especies invasoras pueden afectar de manera negativa al medio a
 
 Es por ello que con inteligencia artificial, uso de localización nos encontramos desarrollando Ocean Life, una aplicación web que de manera rápida permite reportar avistamientos de especies invasoras o protegidas en lugares donde no es común su presencia. Además, permitirá reportar usos indebidos de ríos, lagos, arroyos, etc; por parte de comunidades o empresas.
 
-## Problemáticas a resolver
+## Resolución a problemáticas
 
-* Los contaminación 
-* El uso de pesca de arrastre y pesca ilegal
-* El monitoreo de especies en peligro
-* Detección temprana de especies invasoras
-* Problemas ambientales
-* Sargazo
-* Empresas contaminantes
-* Sobrepesca
+* Detección de contaminación 
+* Reporte del uso de pesca de arrastre y pesca ilegal
+* El monitoreo de especies en peligro para mejorar su reproducción
+* Detección temprana de especies invasoras para su extracción
+* Detección problemas ambientales
+* Detección sargazo
+* Reportes de empresas contaminantes
+* Control de la sobrepesca
+
+## Importancia de las problemáticas
+
+* La contaminación supone un peligro para la salud humana de consumirse pescados y mariscos contaminados. 
+* La pesca ilegal, no declarada y no reglamentada amenaza el manejo sostenible de los recursos marinos, poniendo en riesgo la vida de los ecosistemas y el sustento de los pescadores y sus comunidades en países en desarrollo.
+* La pérdida de cualquier especie puede generar cambios negativos en los ecosistemas.
+* Cuando el sargazo muere y se descompone, consume grandes cantidades de oxígeno causando anoxia, lo cual matará a otras especies.
+* Capturar demasiados peces puede romper abruptamente la cadena alimenticia y tener múltiples efectos.
 
 ## ¿Cómo resolvemos estas problemáticas?
 
@@ -51,6 +59,17 @@ flowchart LR
     E-- Respuesta --> A
 ```
 > El usuario y dispositivo de reconocimiento mandan datos a la inteligencia artificial, esta regresa una solución. Después el reporte llega a la base de datos. El layout manda el requerimiento a la base de datos para mostrar la petición del usuario.
+
+### ¿Cómo se usarán los datos?
+
+* Con los datos se podran analizar sus nuevas apariciones de especies para poder entender en que lugar es mejor su reproducción. 
+* Se podra analizar la ruta de los contaminantes y donde se acumulan.
+* Se analizaron las los desechos que tiran las empresas para su sanción.
+* Se denunciara la pesca ilegal y se analizará la pesca y la frecuencia de especies para determinar si hay variantes que indiquen pesca ilegal.
+* Se recibirán datos de las especies invasoras para capturarlas, ya que en el mar es difícil cerrar un área. Por lo cual es mejor prevenir las especies invasoras.
+* Se recibirán problemas ambientales.
+* Se reportara sargazo para su rápida eliminación.
+* Se hará seguimiento de los peces para evitar una sobre pesca.
 
 
 
