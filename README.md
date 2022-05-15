@@ -1,5 +1,9 @@
 <img src="./OCEAN LIVE Recorte).png" alt="My cool logo"/>
 
+## ¿Quiénes somos?
+
+OCEAN LIFE es una organización encargada de procesar los datos del océano. Entre nuestras capacidades está la interacción del usuario y la de un dispositivo con detección. Con estas interacciones, podemos procesar los datos obtenidos para planear, indicar o reaccionar según sea la ocasión. Con esto es posible recibir reportes de varios tipos como pueden ser: grandes contaminaciones como el plástico, denuncias de pesca ilegal, detección temprana de especies invasoras, reportes de problemas ambientales, monitoreo para reproducción de especies en peligro de extinción, reportes de sargazos y un control de la sobrepesca.
+
 ## Pescando con responsabilidad.
 
 A veces, las personas que pescan como hobbie o que quieren iniciarse en este pacífico pasatiempo no son conscientes del lugar donde están pescando, en más de una ocasión se han encontrado especies de peces u otros animales marinos en lugares donde no deberían estar. Con suerte esto puede quedar como una anécdota para contar en las futuras reuniones con amigos, conocidos o familiares, pero; si la criatura pertenece a una a una especie en amenazada o en peligro podría causar un enorme daño a los intentos de la preservación de dichas especies. 
