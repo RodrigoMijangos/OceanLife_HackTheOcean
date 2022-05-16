@@ -73,9 +73,22 @@ flowchart LR
 
 ## Usó de nuestra web
 
+<img src="./fullwebsite.png" alt="My cool logo"/>
+
 ### Primera opción, identificación del pez
 
+* Entras a identificar especie
+<img src="./Identificar-Especie.png" alt="My cool logo"/>
+
+* Subes la foto
+<img src="./especie-2.jpg" alt="My cool logo"/>
+
+* Recibes la respuesta
+<img src="./especie.jpg" alt="My cool logo"/>
+
 ### Segunda opción, reporte de problemática
+
+<img src="./reportesection.png" alt="My cool logo"/>
 
 ## Tecnologías usadas
 
