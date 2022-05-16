@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-weight: 400;
+  font-size: 14px;
+  padding-top: 70px;
+  overflow-x: hidden !important;
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #000;
+  font-size: 16px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  border-bottom: 2px solid #14a1d4;
+  padding-bottom: 0px;
+}
+
+.bg-nav {
+  background: #a7d9eb;
+  background-size: 52px;
+}
+
+.inicio {
+  position: relative;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: flex-start;
+  padding-bottom: 0;
+  color: #70caebd9;
+  background: url("../assets/img/bg_oceanlife.jpg") round;
+  background-size: auto;
+}
+
+.inicio:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: currentColor;
+  z-index: 1;
+}
+
+.texto-inicio {
+  max-width: 680px;
+  color: #fff;
+  z-index: 2;
+  padding: 50px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.texto-inicio h1 {
+  max-width: 640px;
+  margin-bottom: 30px;
+  font-weight: 800;
+  color: #009ade;
+  line-height: 0.6;
+}
+
+div.texto-inicio br {
+  font-size: 48px !important;
+}
+
+.texto-inicio p {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #002559;
+  font-weight: 400;
+  text-align: center;
+}
+
+@media (min-width: 576px) {
+  .inicio {
+    min-height: 680px;
+    color: transparent;
+  }
+  .inicio .text {
+    padding: 0px;
+  }
+}
+
+.bg-azul {
+  background-color: #d2f0fa;
+}
+
+section {
+  scroll-margin-top: 6.8em;
+  padding: 20px 0;
+}
+
+.section-title {
+  margin-bottom: 25px;
+}
+
+.section-title h2 {
+  position: relative;
+  font-size: 30px;
+  font-weight: 800;
+  color: #002659;
+}
+
+.section-content {
+  font-size: 16px;
+  text-align: justify;
+  margin-bottom: 15px;
+}
+
+.img-oceano {
+  height: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.img-oceano-2 {
+    
+}
+
+.mapa {
+  margin: 0 auto;
+}
+
+.buscar-especie {
+  scroll-margin-top: 6.8em;
+  padding: 30px 0;
+}
+
+.col-buscar {
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.btn-buscar {
+  margin-bottom: 15px;
+}
+
+.btn {
+  font-size: 18px;
+}
+
+@media (max-width: 660px) {
+  .btn {
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .div-buttons {
+    flex-direction: column;
+  }
+
+  .texto-inicio p {
+    font-size: 14px;
+    margin-bottom: 30px;
+    color: #002559;
+    font-weight: 400;
+    text-align: center;
+  }
+}
+
+.footer {
+  height: 600px;
+  background-image: url("./../assets/img/bg-lp.svg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+.footer p {
+    max-width: 600px;
+    margin: 0 auto;
+    color: #000;
+}
+
+.col-right {
+  padding: 0;
+  margin: 0;
+}
+
+#funcion {
+  padding: 0;
+  margin: 0;
+}
+
+.snd-btn {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.snd-btn:hover{
+  background-color: #fff;
+}
+
+#map {
+  height: 345px;
+}
