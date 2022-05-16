@@ -100,6 +100,13 @@ flowchart LR
 * Node - Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor
 * Express - Entorno de trabajo para aplicaciones web para el programario Node.js
 
+## Equipo - Los super conocidos 
+
+*
+*
+*
+*
+* Juan Pablo Muñiz - devleon00 - https://github.com/devleon00 - launchx06280@innovaccion.mx
 
 
 
