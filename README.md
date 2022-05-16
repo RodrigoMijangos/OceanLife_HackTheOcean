@@ -71,7 +71,20 @@ flowchart LR
 * Se reportara sargazo para su rápida eliminación.
 * Se hará seguimiento de los peces para evitar una sobre pesca.
 
+## Usó de nuestra web
 
+### Primera opción, identificación del pez
+
+### Segunda opción, reporte de problemática
+
+## Tecnologías usadas
+
+* HTML - Estructurar y desplegar una página web
+* CSS - Especifica cómo se presentan los documentos a los usuarios
+* JavaScript -  Lenguaje de programación que debes usar para añadir características interactivas a tu sitio web
+* Bootstrap -  Biblioteca de código abierto para diseño de sitios y aplicaciones web
+* Azure custom visión - Es un servicio de reconocimiento de imágenes que le permite crear, implementar y mejorar sus propios modelos de identificadores de imágenes.
+* 
 
 
 
