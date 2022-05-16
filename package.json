@@ -1,0 +1,23 @@
+{
+  "name": "oceanlife_hacktheocean",
+  "version": "1.0.0",
+  "description": "<img src=\"./OCEAN LIVE Recorte).png\" alt=\"My cool logo\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoMijangos/OceanLife_HackTheOcean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoMijangos/OceanLife_HackTheOcean/issues"
+  },
+  "homepage": "https://github.com/RodrigoMijangos/OceanLife_HackTheOcean#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
