@@ -84,7 +84,8 @@ flowchart LR
 * JavaScript -  Lenguaje de programación que debes usar para añadir características interactivas a tu sitio web
 * Bootstrap -  Biblioteca de código abierto para diseño de sitios y aplicaciones web
 * Azure custom visión - Es un servicio de reconocimiento de imágenes que le permite crear, implementar y mejorar sus propios modelos de identificadores de imágenes.
-* 
+* Node - Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor
+* Express - Entorno de trabajo para aplicaciones web para el programario Node.js
 
 
 
