@@ -71,6 +71,15 @@ flowchart LR
 * Se reportara sargazo para su rápida eliminación.
 * Se hará seguimiento de los peces para evitar una sobre pesca.
 
+## Pruébalo  
+
+1. Descarga el proyecot
+2. Corre npm run build
+3. Entra al localhost
+4. Ve a identificar especie
+5. Usa la foto de la carpeta ./ejemplo/
+6. Recibe el resultado
+
 ## Usó de nuestra web
 
 <img src="./redme_assets/fullwebsite.png" alt="My cool logo"/>
